@@ -1,0 +1,39 @@
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.exe
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.deps.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.dev.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.dll
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csprojAssemblyReference.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfoInputs.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfo.cs
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.dll
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 1\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.genruntimeconfig.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.exe
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.deps.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.dev.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.dll
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csprojAssemblyReference.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfoInputs.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfo.cs
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.dll
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.genruntimeconfig.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.exe
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.deps.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.dev.json
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.dll
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csprojAssemblyReference.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfoInputs.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfo.cs
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.dll
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.pdb
+C:\Users\vagei\OneDrive\Рабочий стол\Artificial systems\Labs\Ant algorithm\Lab 2\MainProgram\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.genruntimeconfig.cache
